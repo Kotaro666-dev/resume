@@ -312,20 +312,20 @@ iOS 端末またはカメラ機器で撮影した映像をクラウドプラッ�
 
 - Zenn
     - 2022 年 11 月現在 10 記事
-    - https://zenn.dev/kotaro666
+    - [kotaro666](https://zenn.dev/kotaro666)
 - Note
     - 2022 年 11 月現在 5 記事
-    - https://note.com/kkamashi
+    - [kkamashi](https://note.com/kkamashi)
 - Stack Overflow
     - 2022 年 11 月現在 31 reputations
-    - https://stackoverflow.com/users/12992716/kotaro666
+    - [kotaro666](https://stackoverflow.com/users/12992716/kotaro666)
 
 ## 勉強会での登壇資料
 
 - Flutter Redux の内部構造を考える（2021/3）
-    - https://speakerdeck.com/kotaro666/flutter-redux-nonei-bu-gou-zao-wokao-eru
+    - [SpeakerDeck](https://speakerdeck.com/kotaro666/flutter-redux-nonei-bu-gou-zao-wokao-eru)
 - パイプラインによるプロセス間通信を理解する（2022/3）
-    - https://speakerdeck.com/kotaro666/paipurainniyorupurosesujian-tong-xin-woli-jie-suru
+    - [SpeakerDeck](https://speakerdeck.com/kotaro666/paipurainniyorupurosesujian-tong-xin-woli-jie-suru)
 
 ## 影響を受けた文献資料
 
