@@ -1,4 +1,4 @@
-# { name } resume
+# Kotaro666-dev resume
 
 ## Sample
 
@@ -13,7 +13,7 @@ Automatic proofreading with [textlint](https://github.com/textlint/textlint).
 ```
 $ yarn lint --fix
 ```
-It is also automatically executed when pre-commit by [husky](https://github.com/typicode/husky).  
+It is also automatically executed when pre-commit by [husky](https://github.com/typicode/husky).
 proofreading rules are set with `.textlintrc`.
 
 
@@ -27,7 +27,7 @@ You can generate PDF with [md-to-pdf](https://www.npmjs.com/package/md-to-pdf).
 $ yarn build:pdf
 ```
 
-The output PDF can be styled as you like with CSS. Edit the `pdf-configs/style.css`.  
+The output PDF can be styled as you like with CSS. Edit the `pdf-configs/style.css`.
 
 ### 🛠 Create release
 
@@ -43,5 +43,5 @@ $ git push origin --tags
 
 Automatically generate issues every three months with GitHub Actions Schedules triggers to prompt you to update your resume.
 
-To change the duration or stop the job, edit `.github/workflows/create-issue.yml`.  
+To change the duration or stop the job, edit `.github/workflows/create-issue.yml`.
 To change the issue contents, edit `.github/ISSUE_TEMPLATE.md`.
