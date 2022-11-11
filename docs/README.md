@@ -6,7 +6,7 @@
 |---|---|
 | 名前 | Kotaro Kamashima |
 | 居住地  | 埼玉県 |
-| 最終学歴 | 埼玉大学教養学部哲学歴史専修 |
+| 最終学歴 | 埼玉大学 教養学部 哲学歴史専修 |
 | Github | [Kotaro666-dev](https://github.com/Kotaro666-dev) |
 | Twitter  | [@Kotaro666_dev](https://twitter.com/Kotaro666_dev) |
 | Kotaro666 | [Kotaro666](https://zenn.dev/kotaro666) |
