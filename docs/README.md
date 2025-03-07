@@ -214,7 +214,7 @@ Web版電子カルテと連携するモバイルアプリの新規開発を担�
 - 参画期間
   - 2023/04 ~ 2024/05
 - 使用技術
-    - Java, Kotlin, Android, RxJava, Bitrise, deploygate
+    - Java, Kotlin, Android, RxJava, Bitrise
 - 業務内容
     - ドキュメント品質向上
     - 既存機能の改修
@@ -320,7 +320,7 @@ Web版電子カルテと連携するモバイルアプリの新規開発を担�
     - フロントエンド: TypeScript, Next.js, React, TailWindCSS
     - バックエンド: TypeScript, Next.js, Prisma, MariaDB
     - インフラ： Docker, AWS サービス（EC2/Amazon S3）
-    - アーキテクチャ： レイヤードアーキテクチャ（Controller + Service + Repository Pettern）
+    - アーキテクチャ： レイヤードアーキテクチャ（Controller + Service + Repository Pattern）
 - 業務内容
     - 要件定義書からの技術選定と基本設計、工数見積もり
     - 開発リーダーとして開発全体のマネジメント
@@ -372,9 +372,14 @@ iOS端末やカメラ機器で撮影した映像のライブ配信・再生機�
 
 ## 勉強会での登壇歴
 
-- Flutter Redux の内部構造を考える（2021/3）
+- Flutter Redux の内部構造を考える（2021/03）
     - 社内勉強会にて発表
-- パイプラインによるプロセス間通信を理解する（2022/3）
+- パイプラインによるプロセス間通信を理解する（2022/03）
     - 社内勉強会にて発表
-- Navigation Bar と権限管理を理解する（2025/1）
+- Navigation Bar と権限管理を理解する（2025/01）
     - [YOUTRUST x ビビッドガーデン x ゆめみ Flutter LT会@渋谷 #7](https://yumemi.connpass.com/event/340473/)にて発表
+
+## OSS
+
+- [flutter-mobile-project-template](https://github.com/yumemi-inc/flutter-mobile-project-template)
+  - 期間：2024/01 ~ 2024/04
