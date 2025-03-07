@@ -243,7 +243,7 @@ WIP
 大手国内銀行と大手小売店が共同運営する金融サービスのAndroidネイティブアプリ開発を担当。詳細設計担当者の退職に伴い、Android開発を単独で担当。仕様変更やSDKの問題に対応しながら開発を進め、最終的に納品を完遂。
 
 - プロジェクト規模
-    - 4 名
+    - 4 名でのウォーターフォール開発
 - 使用技術
     - Kotlin, Android, Data Binding, Kotlin Coroutines
     - アーキテクチャ： MVVM + Coordinator + Repository pattern
