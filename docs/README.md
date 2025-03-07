@@ -51,11 +51,14 @@
 |言語|業務経験|
 |---|---|
 |<img alt="Dart" src="https://img.shields.io/badge/-Dart-007ACC?style=flat-square&logo=Dart&logoColor=white" />|4年|
-|<img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white" />|3年|
+|<img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white" />|3年|
+|<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" />|1年|
 |<img alt="C/C++" src="https://img.shields.io/badge/-C/C++-007ACC?style=flat-square&logo=C&logoColor=white" />|2年|
 |<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />|2年|
+|<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />|2年|
 |<img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white" />|2年|
 |<img alt="Swift" src="https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=Swift&logoColor=white" />|1年|
+|<img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white" />|4年|
 
 ### フレームワーク
 
