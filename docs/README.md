@@ -5,11 +5,20 @@
 | key | value |
 |---|---|
 | 名前 | Kotaro Kamashima |
+| 生年月日 | 1990/07/26 |
 | 居住地  | 埼玉県 |
 | 最終学歴 | 埼玉大学 教養学部 哲学歴史専修 |
-| Github | [Kotaro666-dev](https://github.com/Kotaro666-dev) |
-| Twitter  | [@Kotaro666_dev](https://twitter.com/Kotaro666_dev) |
-| Kotaro666 | [Kotaro666](https://zenn.dev/kotaro666) |
+
+## 各種アカウント情報
+
+| key | value |
+|---|---|
+| GitHub | [Kotaro666-dev](https://github.com/Kotaro666-dev) |
+| X | [@Kotaro666_dev](https://x.com/Kotaro666_dev) |
+| Zenn | [Kotaro666](https://zenn.dev/kotaro666) |
+| Qiita | [Kotaro666-dev](https://qiita.com/Kotaro666-dev) |
+| Note | [kkamashi](https://note.com/kkamashi) |
+| Speaker Deck | [Kotaro666](https://speakerdeck.com/kotaro666) |
 
 ## 保有スキル
 
@@ -35,26 +44,29 @@
 
 ### プログラミング言語
 
-- Clang
-- C++
-- Dart
-- Kotlin
-- TypeScript
-- PHP
-- Golang
-- Swift
+|言語|業務経験|
+|---|---|
+|<img alt="Dart" src="https://img.shields.io/badge/-Dart-007ACC?style=flat-square&logo=Dart&logoColor=white" />|4年|
+|<img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white" />|3年|
+|<img alt="C/C++" src="https://img.shields.io/badge/-C/C++-007ACC?style=flat-square&logo=C&logoColor=white" />|2年|
+|<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />|2年|
+|<img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white" />|2年|
+|<img alt="Swift" src="https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=Swift&logoColor=white" />|1年|
 
-### フレームワーク・その他
+### フレームワーク
 
-- Flutter
-- Android ネイティブ
-- Jetpack Compose
-- CodeIgniter
-- Redis
-- MySQL/MariaDB
-- Next.js
-- React
-- Docker
+|フレームワーク|業務経験|
+|---|---|
+|<img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white" />|4年|
+|<img alt="Android" src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=white" />|2年|
+|<img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white" />|2年|
+|<img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white" />|2年|
+|<img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white" />|4年|
+|<img alt="CodeIgniter" src="https://img.shields.io/badge/-CodeIgniter-EF4223?style=flat-square&logo=CodeIgniter&logoColor=white" />|2年|
+|<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />|2年|
+|<img alt="MariaDB" src="https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white" />|2年|
+|<img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=white" />|2年|
+|<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />|4年|
 
 ## 自己PR
 
@@ -65,50 +77,43 @@
 - 常にトレードオフを意識して、開発できます
 - 担当するサービスに対して、常に当事者意識を持って対応します
 
-## 求めている環境
-
-- ドキュメント作成と管理を行っている、または推奨している
-- 複数人が参加して、フィードバックを活発に行うコードレビュー文化がある、または推奨している
-- 技術に対する関心を持つ人が多い
-- 社内外で活発に勉強会を行っている
-- エンジニアのスキルアップをサポートする制度がある（例：技術書の購入支援制度）
-- 以下の開発現場に従事してみたいです
-    - Moblile: Kotlin での Android ネイティブ開発
-    - Web: Golang でのバックエンド開発
-
 ## 興味・関心
 
 - 低レイヤーから基礎的な知識を知りたいという興味があります
 - どんな技術でも、内部構造を理解したいという関心が強いです
 - 言語やフレームワークに対する強いこだわりはなく、常に新しい物事を学ぶことに楽しさを感じます
 
-## 参画プロジェクト一覧（2020/11 ~ 2022/11現在まで）
+## 職務経歴
 
-### スポーツ動画配信サービス（Mobile/Web）
+### 株式会社ゆめみ（2023/04 ~ 現在）
 
-#### プロジェクト概要
+#### 病院向けモバイルアプリ（電子カルテ連携）
 
-約 10 万人 MAU のゴルフ動画配信サービスの開発と保守・運用を主に行なっています。
+WIP
 
-本サービスは、以下の 3 つの主な機能をユーザーに提供しています。
+#### 大手転職サービスのモバイルアプリ
 
-- テレビ：24 時間スポーツ番組を配信する
-- VOD ：7, 000 本以上のオンデマンド動画を視聴できる
-- LIVE 配信：大会を中継して配信する
+WIP
 
-2022 年 3 月に前任の開発リーダー退職を契機に、私が開発リーダーを務めています。
+#### 大手スポーツジムモバイルアプリ
 
-#### 詳細
+WIP
 
-- チーム規模
-    - 5 名（PjM :1, TL: 1, Engineers: 3）
-- 期間
-    - 2020 年 11 月 ~ 2021 年 2 月
-    - 2021 年 6 月 ~ 2021 年 11 月
-    - 2022 年 3 月 ~ 現在まで
+#### 大手百貨店モバイルアプリ
+
+WIP
+
+### エヌ次元株式会社（2020/11 ~ 2023/03）
+
+#### スポーツ動画配信サービス（モバイル/Web）
+
+約10万人のMAUを持つゴルフ動画配信サービスの開発・保守・運用を担当。2022年3月に開発リーダーに就任し、システム設計や外部サービス連携のドキュメントを整備することで、保守運用の負担軽減とリリース時の不具合ゼロを実現。開発の属人化を防ぎ、チームの技術力向上と自律的な開発体制の構築に取り組む。
+
+- プロジェクト規模
+    - 5 名でのウォーターフォール開発
 - 使用技術
-    - Mobile: Flutter, Android, iOS
-    - アーキテクチャ： MVU, MVVM
+    - モバイル: Flutter, Android, iOS, Firebase, Jenkins
+    - Web： CodeIgniter2, MariaDB, Redis, Docker, AWS
 - 業務内容
     - 保守・運用および新機能開発
     - プロジェクトマネジメント（開発課題の整理と進捗管理）
@@ -119,53 +124,14 @@
     - 手順書や方式設計などのドキュメントの改善と作成
     - 参画メンバーの育成
 
-#### 工夫した点
+#### 某マッチングモバイルアプリ
 
-私が参画した当初は、サービス開始当初の背景により保守運用に多大な工数が発生したり、機能開発するたびに新たに致命的な不具合が生まれてしまうという状態でした。
+準委任契約で、マッチングアプリの開発および保守・運用を担当。既存アプリの改善、新機能開発（課金促進）、Flutter2 へのバージョンアップを実施。バージョンアップ完了後、内製化の方針によりプロジェクト終了。
 
-その原因は、初期開発時のシステム設計や外部サービスのドキュメントが不足しており、過去の担当者の引き継ぎが十分に行われていない状態で開発が続いていたからだと認識しました。
-
-ドキュメント不足による引き継ぎ失敗を目の当たりにしていたため、開発依頼が少ない閑散期を利用してシステム設計や外部サービス連携している箇所のドキュメント作成を地道に進めました。
-
-開発リーダーになってから現在までに毎月リリースを行いましたが、リリースによる致命的な不具合の発生は 0 件です。
-
-#### 直近の目標
-
-現在は、以下の目標に注力しています。
-
-1. 開発リーダー不在でも開発エンジニアのみで開発を円滑に進められるようにする
-2. 属人化を作らないために、権限移譲をする
-3. チームメンバーの技術力を育成をする
-4. チームメンバーが当事者意識を持って開発に臨む運営を進める
-
-上記を達成するために、以下の取り組みを行なっています。
-
-1. 開発リーダーのみでのレビュー体制から、複数人での相互レビュー体制を構築する
-2. メンバーの能力やスキルに対して難しい課題であっても、信頼して任せる
-3. コードレビューのフィードバック時に、「なぜ」という背景と知識の共有機会を常に作る
-4. チームメンバーがクライアントとの接する機会を作る
-
-### マッチングアプリ（Mobile）
-
-#### プロジェクト概要
-
-準委任契約で、 Tinder や Tapple に類似したマッチングアプリの開発および保守・運用を行いました。
-
-既存アプリの改善を行う保守・運用と既存ユーザーからの課金を促進する新機能開発、そして Flutter2 へのバージョンアップ作業が主となりました。
-
-Flutter2 バージョンアップ後に、サービス運営会社の内製開発意向によりプロジェクト参画が終了しました。
-
-#### 詳細
-
-- チーム規模
-    - 4 名（TL: 1, Engineers: 3）
-- 期間
-    - 2021 年 3 月~2021 年 11 月
+- プロジェクト規模
+    - 4 名でのウォーターフォール開発
 - 使用技術
-    -  Flutter
-        - 状態管理手法： Redux, Provider
-    - アーキテクチャ
-        - MVU, MVVM
+    - Flutter
 - 業務内容
     - 保守・運用
     - 新機能開発
@@ -173,32 +139,12 @@ Flutter2 バージョンアップ後に、サービス運営会社の内製開�
     - 詳細設計
     - Flutter2 へのバージョンアップ作業
 
-#### 工夫した点
+#### 大手金融系サービスモバイルアプリ
 
-保守・運用開発では別会社で開発している API サーバとの連携が重要であり、文章や VC でのコミュニケーションを通じて円滑な開発を行えるように注力しました。
+大手国内銀行と大手小売店が共同運営する金融サービスのAndroidネイティブアプリ開発を担当。詳細設計担当者の退職に伴い、Android開発を単独で担当。仕様変更やSDKの問題に対応しながら開発を進め、最終的に納品を完遂。
 
-また、発注会社のエンジニアが実装するコードも含まれるため、プロジェクト全体で統一性のあるコードを書くように意識しました。
-
-#### 本プロジェクトを通じて習得したもの
-
-本案件を通じて、小規模な機能開発時に開発リーダーを担当させてもらったことで、今後の別プロジェクトでの開発リーダーとしての基礎を作ることができました。
-
-### 金融サービス（Mobile）
-
-#### プロジェクト概要
-
-大手国内銀行と大手小売店がコラボレーションした金融サービスの Android ネイティブ開発を行いました。
-
-プロジェクト初期の段階で、詳細設計を担当していた Android ネイティブ開発予定者が退職したために、 Android 側は私一人で開発していく形となりました。
-
-上流工程での考慮漏れや度重なる仕様変更、用意された SDK に問題がある等で典型的なウォーターフォール開発のデスマーチ状態となりましたが、最終的に納品まで辿り着きました。
-
-#### 詳細
-
-- チーム規模
-    - 4 名（PjM 兼 TL: 1, iOS: 2, Android: 1）
-- 期間
-    - 2021 年 12 月 ~ 2022 年 2 月
+- プロジェクト規模
+    - 4 名
 - 使用技術
     - Kotlin, Data Binding, Kotlin Coroutines
     - アーキテクチャ： MVVM + Coordinator + Repository pattern
@@ -209,37 +155,15 @@ Flutter2 バージョンアップ後に、サービス運営会社の内製開�
     - プッシュ通知連携
     - FirebaseAnalytics 連携
 
-#### 工夫した点
+#### 業務効率化サービス（Web）
 
-- 本プロジェクトで初めて Android ネイティブ開発かつスケジュールの余裕がないため、プライベート時間を使ってキャッチアップして開発を進行したこと
-- 各レイヤーの責務に則した保守性の高い実装
-- ユニットテストの実行しやすさを意識した実装
-- Kotlin Coroutine を使用した並列処理のデータ通信によるパフォーマンスを意識した実装
+既存顧客の要望に基づき業務効率化サービスを開発し、開発/プロジェクトリーダーとしてチームのマネジメントとバックエンド開発を担当。未熟なメンバーの成長を促しながらプロジェクトを進行した。
 
-#### 本プロジェクトを通じて習得したもの
-
-- Android ネイティブ開発の知見と経験
-- 未知の技術スタックの開発でもキャッチアップすれば対応できる自信
-
-### 業務効率化サービス（Web）
-
-#### プロジェクト概要
-
-既存顧客の要望から、業務効率化サービスを開発しました。
-
-私が開発/プロジェクトリーダーとして、開発チームのマネジメントとバックエンド開発を行いました。
-
-参画メンバーの技術力・経験が未熟な状態でしたが、メンバーの成長を期待して「任せる」こと意識してプロジェクトを進行させました。
-
-#### 詳細
-
-- チーム規模
-    - 6 名（PjM 1, TL 兼 BackEnd: 1, FrontEnd/Backend: 4）
-- 期間
-    - 2022 年 6 月 ~ 2022 年 9 月
+- プロジェクト規模
+    - 6 名でのウォーターフォール開発
 - 使用技術
-    - FrontEnd: Next.js, React, TypeScript, TailWindCSS
-    - BackEnd: Next.js, TypeScript, Prisma, MariaDB
+    - フロントエンド: Next.js, React, TypeScript, TailWindCSS
+    - バックエンド: Next.js, TypeScript, Prisma, MariaDB
     - インフラ： Docker, AWS サービス（EC2/Amazon S3）
     - アーキテクチャ： レイヤードアーキテクチャ（Controller + Service + Repository Pettern）
 - 業務内容
@@ -253,48 +177,14 @@ Flutter2 バージョンアップ後に、サービス運営会社の内製開�
     - サービス品質の最終的責任の担保
     - サービスの納品作業
 
-#### 工夫した点
+#### クラウド配信サービスモバイルアプリ
 
-- メンバーの得意・興味関心、技術の将来性を考慮した技術選定を行ったこと
-- メンバーの技術力・経験が未熟な状態でも、メンバーの成長を期待して「任せる」こと意識してプロジェクトを進行したこと
-- メンバーの課題進捗度や詰まり具合に応じて、ペアプログラミングを実施して、技術的知見や開発手法のノウハウを共有したこと
-- 将来的な保守運用と開発工数のトレードオフを考慮した DB 設計と API 設計を行ったこと
+iOS端末やカメラ機器で撮影した映像のライブ配信・再生機能を提供するサービスの開発に従事。既存アプリの機能追加を担当し、継続的なサービス開発やAndroid対応を見据えた環境整備として、前任者の実装部分のドキュメント化を実施。
 
-#### 反省点
-
-- TailwindCSS の導入するうえで、プロジェクトのデザインから判断を熟慮すること
-- インフラ側の知見のなさから、インフラ担当エンジニアとのコミュニケーションに齟齬が発生したこと
-- 開発途中に要件定義段階での要件・仕様漏れに気づくことが複数あったこと
-
-#### 本プロジェクトを通じて習得したもの
-
-- アーキテクチャと技術選定の経験
-- Web アプリ開発の経験
-- データベース設計
-- API 設計
-- メンバーへのタスクの委譲
-- プロジェクトマネジメント
-
-
-### クラウド配信プラットフォーム（Mobile）
-
-#### プロジェクト概要
-
-iOS 端末またはカメラ機器で撮影した映像をクラウドプラットフォームを経由して、登録ユーザーにライブ配信を行ったり、過去の映像を再生する機能を提供するサービスです。
-
-現在は、前任者が作成した既存アプリからの機能追加開発を行っています。
-
-今後は、継続したサービス開発や Android 端末でのサービス提供も期待されていいます。前任者が実装した箇所のドキュメント化を行い、継続的な開発が行いやすい環境を整えることを目標としています。
-
-#### 詳細
-
-- チーム規模
-    - 4 名（PjM 1, Mobile: 2, Web: 2）
-- 期間
-    - 2022 年 10 月 ~ 現在
+- プロジェクト規模
+    - 4 名でのアジャイル開発
 - 使用技術
     - Flutter, Swift
-        - 状態管理手法： Riverpod, Flutter hooks
     - Sora SDK（WebRTC SFU）
 - 業務内容
     - 静的 UI 画面の作成
@@ -303,100 +193,11 @@ iOS 端末またはカメラ機器で撮影した映像をクラウドプラッ�
     - iPhone 内蔵カメラへの命令処理実装と繋ぎ込み
     - SDK を通じた映像の描写や音声データの繋ぎ込み
 
-# その他
-
-## エンジニアとしてのバックボーン
-
-### 42Tokyo
-
-プログラミングの基礎は [42Tokyo](https://42tokyo.jp/) で学びました。
-2020 年 1 月の入学試験 Piscine に合格し、2020 年 6 月に入学した 1 期生の一人です。
-
-### 学んだこと
-
-- Libft
-    - 標準 C ライブラリ関数作成による自ライブラリを作成しました
-    - 車輪の大発明をすることで、必要な便利関数は自前で作って対応することを学びました
-    - [提出コード](https://github.com/Kotaro666-dev/libft)
-- network
-    - TCP や UDP 等のプロトコルやサブネットマスクについて学びました
-- get_next_line
-    - 渡されたファイルを 1 行ずつ読み込み、渡した引数に格納する関数を作成しました
-    - static 変数の役割や要件を理解してコードに落とし込むことができるようになりました
-    - [提出コード](https://github.com/Kotaro666-dev/get_next_line/tree/master/2nd_try)
-- ft_printf
-    - 7 つのファイルフォーマット、フィールド幅と精度、複数のオプションに対応した printf の再実装課題です
-    - 機能や役割に応じたファイルと関数分割、そしてリーダービリティを意識したコードを書くように心がけました
-    - [提出コード](https://github.com/Kotaro666-dev/ft_printf/tree/master/2nd_try)
-- ft_server
-    - 1 つの Docker コンテナ内に、LEMP 環境を作り、WordPress を立ち上げる
-    - Docker による仮想化技術と LEMP 環境設定方法を学びました
-    - [提出コード](https://github.com/Kotaro666-dev/ft_server)
-- cub3d
-    - レイキャスティング技法を使って 3D 空間で遊べるゲームを作る
-    - 詳細は[こちらのNote](https://note.com/kkamashi/n/nc8e97ca96284)でまとめました
-    - [提出コード](https://github.com/Kotaro666-dev/team_cub3D)
-- libasm
-    - 標準 C ライブラリ関数の一部をアセンブリ言語で実装する
-    - 使用するメモリとレジスタの概要に触れることができました
-    - [提出コード](https://github.com/Kotaro666-dev/libasm)
-- push_swap
-    - 2 つのスタックを操作して、渡されたデータをソートする
-    - 極力少ない回数でソートができるようにアルゴリズムを工夫しました
-    - [提出コード](https://github.com/Kotaro666-dev/push_swap)
-- minishell
-    - 機能が制限された Bash を再実装する
-    - Bash の仕様、構文解析やプロセスを学ぶことができました
-    - [提出コード](https://github.com/Kotaro666-dev/minishell)
-- inception
-    - docker-compose を使って、LEMP 環境上に Wordpress を立ち上げる
-    - 42Tokyo で最初に課題をクリアした称号をゲットしました
-    - [提出コード](https://github.com/Kotaro666-dev/inception)
-- pipex
-    - パイプラインを再実装しました
-    - [提出コード](https://github.com/Kotaro666-dev/pipex)
-- philosopher
-    - 並行/並列処理（Pthreads）を駆使して、食事する哲学者の問題を解きました
-    - 本課題を通じて、並行/並列処理の基礎的な使い方を学習できました
-    - [提出コード](https://github.com/Kotaro666-dev/philosophers)
-- cpp
-    - C++ の基礎を学ぶ課題群です
-    - C++ でクラスを作るところまで進めました
-    - [提出コード](https://github.com/Kotaro666-dev/cpp_module)
-
-## 技術投稿
-
-- Zenn
-    - 2022 年 12 月現在 15 記事
-    - [kotaro666](https://zenn.dev/kotaro666)
-- Note
-    - 2022 年 12 月現在 5 記事
-    - [kkamashi](https://note.com/kkamashi)
-- Stack Overflow
-    - 2022 年 12 月現在 61 reputations
-    - [kotaro666](https://stackoverflow.com/users/12992716/kotaro666)
-
-## 勉強会での登壇資料
+## 勉強会での登壇歴
 
 - Flutter Redux の内部構造を考える（2021/3）
-    - [SpeakerDeck](https://speakerdeck.com/kotaro666/flutter-redux-nonei-bu-gou-zao-wokao-eru)
+    - 社内勉強会にて発表
 - パイプラインによるプロセス間通信を理解する（2022/3）
-    - [SpeakerDeck](https://speakerdeck.com/kotaro666/paipurainniyorupurosesujian-tong-xin-woli-jie-suru)
-
-## 影響を受けている書籍
-
-### 技術
-
-- 「リーダーブルコード ―より良いコードを書くためのシンプルで実践的なテクニック」
-- 「UNIX という考え方 ―その設計思想と哲学」
-- 「Clean Architecture 達人に学ぶソフトウェアの構造と設計」
-- 「A Philosophy of Software Design」
-- 「ソフトウェアアーキテクチャの基礎 ―エンジニアリングに基づく体系的アプローチ」
-
-### ソフト
-
-- 「マネジャーのもっとも大切な仕事──95％の人が見過ごす」
-- 「サーバント・リーダー「権力」ではない。「権威」を求めよ」
-- 「HIGH OUTPUT MANAGEMENT(ハイアウトプット マネジメント）人を育て、成果を最大にするマネジメント」
-- 「ソフトウェア見積り　人月の暗黙知を解き明かす」
-- 「エンジニアリング組織論への招待 ~不確実性に向き合う思考と組織のリファクタリング」
+    - 社内勉強会にて発表
+- Navigation Bar と権限管理を理解する（2025/1）
+    - [YOUTRUST x ビビッドガーデン x ゆめみ Flutter LT会@渋谷 #7](https://yumemi.connpass.com/event/340473/)にて発表
