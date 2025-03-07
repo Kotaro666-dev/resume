@@ -190,8 +190,8 @@ WIP
 - プロジェクト規模
     - 5 名でのウォーターフォール開発
 - 使用技術
-    - モバイル: Flutter, Android, iOS, Firebase, Jenkins
-    - Web： CodeIgniter2, MariaDB, Redis, Docker, AWS
+    - モバイル: Dart, Flutter, Android, iOS, Firebase, Jenkins
+    - Web： PHP,CodeIgniter2, MariaDB, Redis, Docker, AWS
 - 業務内容
     - 保守・運用および新機能開発
     - プロジェクトマネジメント（開発課題の整理と進捗管理）
@@ -209,7 +209,7 @@ WIP
 - プロジェクト規模
     - 4 名でのウォーターフォール開発
 - 使用技術
-    - Flutter
+    - Dart, Flutter
 - 業務内容
     - 保守・運用
     - 新機能開発
@@ -224,7 +224,7 @@ WIP
 - プロジェクト規模
     - 4 名
 - 使用技術
-    - Kotlin, Data Binding, Kotlin Coroutines
+    - Kotlin, Android, Data Binding, Kotlin Coroutines
     - アーキテクチャ： MVVM + Coordinator + Repository pattern
 - 業務内容
     - クライアント折衝業務（MTG や日々のクライアントとのチャットによるやり取り含む）
@@ -240,8 +240,8 @@ WIP
 - プロジェクト規模
     - 6 名でのウォーターフォール開発
 - 使用技術
-    - フロントエンド: Next.js, React, TypeScript, TailWindCSS
-    - バックエンド: Next.js, TypeScript, Prisma, MariaDB
+    - フロントエンド: TypeScript, Next.js, React, TailWindCSS
+    - バックエンド: TypeScript, Next.js, Prisma, MariaDB
     - インフラ： Docker, AWS サービス（EC2/Amazon S3）
     - アーキテクチャ： レイヤードアーキテクチャ（Controller + Service + Repository Pettern）
 - 業務内容
@@ -262,8 +262,7 @@ iOS端末やカメラ機器で撮影した映像のライブ配信・再生機�
 - プロジェクト規模
     - 4 名でのアジャイル開発
 - 使用技術
-    - Flutter, Swift
-    - Sora SDK（WebRTC SFU）
+    - Dart, Flutter, Swift, Sora SDK（WebRTC SFU）
 - 業務内容
     - 静的 UI 画面の作成
     - 外部 API との連携と動的繋ぎこみ
