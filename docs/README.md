@@ -66,12 +66,12 @@
 |---|---|
 |<img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white" />|4年|
 |<img alt="Android" src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=white" />|2年|
-|<img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white" />|2年|
 |<img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white" />|2年|
 |<img alt="CodeIgniter" src="https://img.shields.io/badge/-CodeIgniter-EF4223?style=flat-square&logo=CodeIgniter&logoColor=white" />|2年|
 |<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />|2年|
 |<img alt="MariaDB" src="https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white" />|2年|
 |<img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=white" />|2年|
+|<img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white" />|1年|
 |<img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white" />|4年|
 |<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />|4年|
 
